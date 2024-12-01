@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'FirebugRUS-Regular';
+	src: url('../fonts/firebugrus-regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/firebugrus-regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/firebugrus-regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/firebugrus-regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/firebugrus-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/firebugrus-regular.svg#firebugrus-regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
